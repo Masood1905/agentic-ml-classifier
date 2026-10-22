@@ -1,0 +1,8 @@
+streamlit
+langchain-core
+langchain-groq
+python-dotenv
+scikit-learn
+pandas
+numpy
+joblib

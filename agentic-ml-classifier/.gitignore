@@ -1,0 +1,11 @@
+# Secrets: never upload your API key
+.env
+
+# Too large for GitHub (150 MB). Download it from Kaggle (see README)
+data/creditcard.csv
+
+# Python / environment files
+__pycache__/
+*.pyc
+venv/
+.venv/
